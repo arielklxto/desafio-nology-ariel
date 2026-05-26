@@ -7,13 +7,13 @@ Aplicação web para cálculo de cashback com base em regras de desconto, tipo d
 ## Acesso ao Projeto
 
 🔗 **Frontend (Aplicação):**  
-https://seu-link-vercel.vercel.app
+https://desafio-nology-gamma.vercel.app/
 
 🔗 **API (Documentação Swagger):**  
-https://seu-backend.onrender.com/docs
+https://desafio-nology-6mlb.onrender.com/docs
 
 🔗 **Repositório:**  
-https://github.com/seu-usuario/seu-repo
+https://github.com/arielklxto/desafio-nology-ariel
 
 ---
 

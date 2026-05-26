@@ -4,7 +4,7 @@ Aplicação web para cálculo de cashback com base em regras de desconto, tipo d
 
 ---
 
-![Desafio Nology](https://github.com/arielklxto/amazon-scraper/blob/main/img/imagem.jpg)
+![Desafio Nology](https://github.com/arielklxto/print-app.jpg)
 
 
 ## Acesso ao Projeto
